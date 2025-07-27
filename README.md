@@ -1,7 +1,7 @@
 # 👨‍💻 Ahmed Otifi
 
 ### <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=43C6AC&width=800&lines=Data+Engineer+%7C+Big+Data+Engineer+%7C+Data+Lover+%7C+Authentic" alt="Animated Subheader" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=43C6AC&width=800&lines=Data+Engineer" alt="Animated Subheader" />
 </div>
 
 

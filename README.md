@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=43C6AC&width=850&lines=Big+Data+Engineer;Data+Engineer+Instructor;AI+Research+Publisher" alt="Animated Subheader" />
 </div>
 
-🚀 Big Data Engineer, Data Engineer, Data Management Instructor, and AI research publisher with more than **2 years of experience** working with data pipelines, ETL workflows, distributed processing, data platforms, and analytics systems.
+Big Data Engineer, Data Engineer, Data Management Instructor, and AI research publisher with more than **2 years of experience** working with data pipelines, ETL workflows, distributed processing, data platforms, and analytics systems.
 
 ---
 
